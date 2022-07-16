@@ -2,6 +2,8 @@
 
 ![Video](/screenshot/financa.gif?raw=true "Run time Video")
 
+**live demo: [https://shindi-financeiro.netlify.app/](https://shindi-financeiro.netlify.app/)**
+
 ## Descrição
 
 Sistema de Controle Financeiro que controla a receitas e despesas do usuário, desenvolvido em React e Redux. O sistema é capaz de persistir dados da lista ao recarregar a página.
